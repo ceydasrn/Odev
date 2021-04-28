@@ -16,7 +16,7 @@ public class Main {
 			System.out.println("Kursun adı: " + course.name + "\nEğitmen: " + course.instructor);
 			System.out.println("----------------------------------------------------------------");
 		}
-		System.out.println("Toplam kurs sayı: " + courses.length + "\n");
+		System.out.println("Toplam kurs sayısı: " + courses.length + "\n");
 		
 		
 		CourseManager courseManager = new CourseManager();
